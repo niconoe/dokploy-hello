@@ -12,7 +12,7 @@ def hello():
     <html>
       <head><title>Hello from Dokploy</title></head>
       <body style="font-family: sans-serif; max-width: 600px; margin: 4em auto;">
-        <h1>Hello, {name} 👋</h1>
+        <h1>Hello, {name} 👋 UPDATE</h1>
         <p>Served from container <code>{host}</code></p>
         <p>If you see this over HTTPS with your own domain, Dokploy is working.</p>
       </body>
